@@ -1,3 +1,5 @@
 repo
 local repo - тот, который у тебя на компе
 remote repo - тот, который на гитхабе
+
+some text from clone repo 
